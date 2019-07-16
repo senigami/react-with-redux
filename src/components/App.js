@@ -1,5 +1,6 @@
 import React from 'react';
 
+/*
 class App extends React.Component {
 	state = {};
 
@@ -7,5 +8,10 @@ class App extends React.Component {
 		return <div>App</div>;
 	}
 }
+*/
+
+const App = () => {
+	return <div>App</div>;
+};
 
 export default App;
